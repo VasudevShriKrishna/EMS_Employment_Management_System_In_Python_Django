@@ -25,7 +25,7 @@ EMS_Employment_Management_System_In_Python_Django is a web-based application dev
 
 
 
-STEP-BY-STEP: First Unzip the Folder : Run Unzipped Django Project in PyCharm
+STEP-BY-STEP: First Download the Raw File and Unzip the Folder : Run Unzipped Django Project in PyCharm
 
 1. Open the Project Folder in PyCharm
    
@@ -35,8 +35,13 @@ Go to Folder > Open with PyCharm
 
 
 2. Create a Virtual Environment in PyCharm
+
 3. Install Django & Pillow Packages
+
 4. Check Requirements.text (Optional)
+
 5. Apply Migrations
+
 6. Create a Superuser
+
 7. Run the Server
