@@ -29,7 +29,7 @@ This system allows users to perform CRUD operations on employee records and prov
 
 
 
-STEP-BY-STEP: First Download the Raw File and Unzip the Folder : Run Unzipped Django Project in PyCharm
+STEP-BY-STEP: Clone the repository
 
 1. Open the Project Folder in PyCharm
    
