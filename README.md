@@ -1,6 +1,10 @@
 # EMS_Employment_Management_System_In_Python_Django
 
-EMS_Employment_Management_System_In_Python_Django is a web-based application developed using the Django framework in Python, designed to manage employee information efficiently. This system allows users to perform CRUD operations on employee records and provides an admin interface for centralized control.
+EMS is a Django-based web application for managing employee records with CRUD operations. 
+
+Built using Python and PyCharm, it supports a clean admin interface and image handling via the Pillow library.
+
+This system allows users to perform CRUD operations on employee records and provides an admin interface for centralized control.
 
 🚀 Features
 -> Add, edit, and delete employee details
